@@ -1,8 +1,11 @@
-RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS;
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 28/12/23
+
 Empresa: Abstergo Industries 
+
 Responsável: [Ail]
+
 Introdução
 
 Vamos apresentar projeto de consultoria com o objetivo de aprimorar a eficiência e reduzir os custos de uma empresa de backups, que ja utiliza serviçlos AWS.
@@ -21,12 +24,17 @@ AWS Lambda para automatizar tarefas de backup como políticas de retenção, ges
 Etapa 3: - Amazon CloudWatch para Monitoramento de Custos:
 Para monitorar os custos em tempo real, com alertas e limites de gastos para evitar gastos não planejados e permitir uma gestão proativa dos recursos.
 
+
 Conclusão
+
 A implementação de ferramentas na empresa tem como esperado o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
 
 Anexos
 [n/a]
 
+
 Assinatura do Responsável pelo Projeto:
+
 
 [Ail]
