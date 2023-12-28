@@ -1,12 +1,8 @@
-RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS;
 
 Data: 28/12/23
-
 Empresa: Abstergo Industries 
-
 Responsável: [Ail]
-
-
 Introdução
 
 Vamos apresentar projeto de consultoria com o objetivo de aprimorar a eficiência e reduzir os custos de uma empresa de backups, que ja utiliza serviçlos AWS.
